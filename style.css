@@ -17,13 +17,19 @@ h3 {
   margin-bottom: 15px;
 }
 
+.corpo-info {
+  line-height: 0.5;
+}
+
 .job {
+  text-transform: uppercase;
   border-top: 3px solid ;
   border-bottom: 3px solid;
   text-align: center;
 }
 
 .edu {
+  text-transform: uppercase;
   border-top: 3px solid ;
   border-bottom: 3px solid;
   text-align: center;
